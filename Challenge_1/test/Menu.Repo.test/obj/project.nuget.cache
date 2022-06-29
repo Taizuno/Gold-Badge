@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Hq4uu7/N8TLqb0w9PQw1IM4FX9ChqG+fmfEnw9bMeRWNLjhQDAK0x3oLOZh32LcYupJFsXOZJBK8P8aiT6L3g==",
+  "dgSpecHash": "47pOYuba5cuTL/Pc1MSfr4TN0Mc3AcrSZynfC8GDkQ1Xl2lco3kmb/8Kppw4KczAFpgGPlFFJavbeLEoMSkGEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\Menu.test\\Menu.test.csproj",
+  "projectFilePath": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\test\\Menu.Repo.test\\Menu.Repo.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thund\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Thund\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",

@@ -1,4 +1,4 @@
-namespace Menu.test;
+namespace Menu.Repo.test;
 
 public class UnitTest1
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\Menu.test\\Menu.test.csproj": {}
+    "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\test\\Menu.Repo.test\\Menu.Repo.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\Menu.test\\Menu.test.csproj": {
+    "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\test\\Menu.Repo.test\\Menu.Repo.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\Menu.test\\Menu.test.csproj",
-        "projectName": "Menu.test",
-        "projectPath": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\Menu.test\\Menu.test.csproj",
+        "projectUniqueName": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\test\\Menu.Repo.test\\Menu.Repo.test.csproj",
+        "projectName": "Menu.Repo.test",
+        "projectPath": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\test\\Menu.Repo.test\\Menu.Repo.test.csproj",
         "packagesPath": "C:\\Users\\Thund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\Menu.test\\obj\\",
+        "outputPath": "C:\\Users\\Thund\\Downloads\\EFProjects\\CF\\assignments\\GoldBadge\\Challenge_1\\test\\Menu.Repo.test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thund\\AppData\\Roaming\\NuGet\\NuGet.Config"
