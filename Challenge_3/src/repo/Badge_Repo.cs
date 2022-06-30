@@ -34,4 +34,24 @@ using System.Threading.Tasks;
                 }
             }
         }
+        public bool UpdateBadge(int id, Badge newBadge)
+        {
+            var oldBadge = GetBadgeByID(id);
+            if(oldBadge is null)
+            {
+                return false;
+            }
+            oldBadge.BadgeID = newBadge.BadgeID;
+            oldBadge.Access = newBadge.Access;
+            return true;
+        }
+        public bool DeleteAccess(int id)
+        {
+            var badge = GetBadgeByID(id);
+            if(badge is null)
+            {
+                return false;
+            }
+            _bdic.Remove(badge);
+        }
     }
