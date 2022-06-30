@@ -21,4 +21,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Src\Menu.Data\Menu.Data.csproj" />
+    <ProjectReference Include="..\..\Src\Menu.Repo\Menu.Repo.csproj" />
+  </ItemGroup>
+
 </Project>
